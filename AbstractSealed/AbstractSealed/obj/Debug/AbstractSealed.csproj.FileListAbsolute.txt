@@ -1,0 +1,6 @@
+C:\Users\Kamran\source\repos\AbstractSealed\AbstractSealed\bin\Debug\AbstractSealed.exe.config
+C:\Users\Kamran\source\repos\AbstractSealed\AbstractSealed\bin\Debug\AbstractSealed.exe
+C:\Users\Kamran\source\repos\AbstractSealed\AbstractSealed\bin\Debug\AbstractSealed.pdb
+C:\Users\Kamran\source\repos\AbstractSealed\AbstractSealed\obj\Debug\AbstractSealed.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\AbstractSealed\AbstractSealed\obj\Debug\AbstractSealed.exe
+C:\Users\Kamran\source\repos\AbstractSealed\AbstractSealed\obj\Debug\AbstractSealed.pdb
